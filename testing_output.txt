@@ -1,0 +1,28 @@
+file_list: ['_testing_data\\b (1).jpg', '_testing_data\\b (2).jpg', '_testing_data\\b (3).jpg', '_testing_data\\b (4).jpg', '_testing_data\\b (5).jpg', '_testing_data\\b (6).jpg', '_testing_data\\b (7).jpg', '_testing_data\\b (8).jpg', '_testing_data\\b (9).jpg', '_testing_data\\g (1).jpg', '_testing_data\\g (2).jpg', '_testing_data\\g (3).jpg', '_testing_data\\g (4).jpg', '_testing_data\\g (5).jpg', '_testing_data\\g (6).jpg', '_testing_data\\g (7).jpg', '_testing_data\\g (8).jpg', '_testing_data\\r (1).jpg', '_testing_data\\r (2).jpg', '_testing_data\\r (3).jpg', '_testing_data\\r (4).jpg', '_testing_data\\r (5).jpg', '_testing_data\\r (6).jpg', '_testing_data\\r (7).jpg', '_testing_data\\r (8).jpg']
+FILE NAME:  _testing_data\b (1).jpg blue
+FILE NAME:  _testing_data\b (2).jpg blue
+FILE NAME:  _testing_data\b (3).jpg blue
+FILE NAME:  _testing_data\b (4).jpg red
+FILE NAME:  _testing_data\b (5).jpg blue
+FILE NAME:  _testing_data\b (6).jpg blue
+FILE NAME:  _testing_data\b (7).jpg blue
+FILE NAME:  _testing_data\b (8).jpg blue
+FILE NAME:  _testing_data\b (9).jpg blue
+FILE NAME:  _testing_data\g (1).jpg red
+FILE NAME:  _testing_data\g (2).jpg green
+FILE NAME:  _testing_data\g (3).jpg green
+FILE NAME:  _testing_data\g (4).jpg green
+FILE NAME:  _testing_data\g (5).jpg green
+FILE NAME:  _testing_data\g (6).jpg green
+FILE NAME:  _testing_data\g (7).jpg green
+FILE NAME:  _testing_data\g (8).jpg green
+FILE NAME:  _testing_data\r (1).jpg red
+FILE NAME:  _testing_data\r (2).jpg red
+FILE NAME:  _testing_data\r (3).jpg red
+FILE NAME:  _testing_data\r (4).jpg red
+FILE NAME:  _testing_data\r (5).jpg red
+FILE NAME:  _testing_data\r (6).jpg red
+FILE NAME:  _testing_data\r (7).jpg red
+FILE NAME:  _testing_data\r (8).jpg red
+
+accuracy 92%

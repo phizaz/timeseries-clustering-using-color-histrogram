@@ -8,7 +8,7 @@ import os
 
 training_histograms = File.File.open('_histograms.json')
 bucket_count = 256
-n_for_classify = 5
+n_for_classify = 7
 
 def classify_by_n(n, data):
     bucket = {
