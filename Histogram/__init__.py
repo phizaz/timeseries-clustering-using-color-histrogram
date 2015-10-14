@@ -4,7 +4,7 @@ import numpy
 class Histogram:
 
     @staticmethod
-    def createFromHSV(hsv_image, histogram_size):
+    def create_from_hsv(hsv_image, histogram_size):
         # convert to histogram based on the H value
         pixel_count = hsv_image.size
         histogram = [0 for i in range(histogram_size)]
@@ -22,9 +22,6 @@ class Histogram:
         # normalize histogram
         for bucket_number in range(histogram_size):
             histogram[bucket_number] /= pixel_count
-
-        # convert to ndarray
-        histogram = numpy.array(histogram)
 
         return histogram
     

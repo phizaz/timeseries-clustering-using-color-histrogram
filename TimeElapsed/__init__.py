@@ -1,11 +1,11 @@
 import time
 
-class TimeLapse:
+class TimeElapsed:
 
     @staticmethod
     def measure(fn):
         start_time = time.process_time()
         # run the targetted function
-        fn()
+        result = fn()
         time_lapse = time.process_time() - start_time
-        return '%.5f' % time_lapse
+        return result, '%.5f' % time_lapse
