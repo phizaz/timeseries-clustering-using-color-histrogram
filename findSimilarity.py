@@ -2,13 +2,12 @@ import File
 import Histogram
 import skimage.io
 import skimage.color
-import TimeLapse
 import os
 
 
 training_histograms = File.File.open('_histograms.json')
 bucket_count = 256
-n_for_classify = 7
+n_for_classify = 1
 
 def classify_by_n(n, data):
     bucket = {
