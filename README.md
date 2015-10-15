@@ -21,6 +21,7 @@ We use HSV in this work because we mainly focus on color-tone classification. Th
 
 ### Converting images to hue-based histograms
 The process consists of six steps described as follows:
+
 1. Having an image of any kind.
 2. Transform that image into a bitmap, say a two-dimensional array.
 3. Convert each pixel of that array from RGB to HSV and take only the hue part of the result.
